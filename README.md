@@ -85,13 +85,3 @@ Iterate and Refine: If the initial output is unsatisfactory, apply prompting bes
    User Experience: Varies. Meta AI's primary experience is through its integration with social platforms (e.g., WhatsApp, Instagram, Facebook). This makes it highly           accessible for casual use but less suited for a dedicated, long-form task like this one in a single interface.  
 
    Response Quality: Good. The summary is functional and provides the necessary information. It is a solid performer but does not stand out significantly from the              competition in this specific use case.
-
-
-
-
-## Prompt
-
-## Output
-
-## Result
-
